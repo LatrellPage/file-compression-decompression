@@ -6,4 +6,4 @@ This application is a Lossless compression application it uses the Gzip compress
 Many companies use the  Apache library for compression, Gzip in particular or other lossless compression algorithms for reducing server space and band width usage. Its also great for DB query performance and faster reloads on websites especially those of high traffic. 
 
 
-Please navigate to [Continous Development Repo](https://github.com/LatrellPage/file-compression-decompressionV2). [Deployed App here](https://file-compression-app-n-java-90927f0683b7.herokuapp.com/);
+Please navigate to [Continous Development Repo](https://github.com/LatrellPage/file-compression-decompressionV2)............................ [Deployed App here](https://file-compression-app-n-java-90927f0683b7.herokuapp.com/);
